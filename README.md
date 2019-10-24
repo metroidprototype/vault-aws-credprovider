@@ -4,7 +4,7 @@ Hashicorp Vault AWS dynamic credentials credential_process helper
 
 ## Installation
 
-[Download](https://github.com/d3sw/metroidprototype/vault-aws-credprovider) the binary based on your OS.  Once uncompressed copy it into your system PATH.
+[Download](https://github.com/metroidprototype/vault-aws-credprovider/releases) the binary based on your OS.  Once uncompressed copy it into your system PATH.
 
 ## Usage
 
